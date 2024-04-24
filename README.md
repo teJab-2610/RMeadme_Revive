@@ -13,12 +13,12 @@ The goal? To make readme maintenance easier, ensuring documentation stays releva
 - Using Git
 Open your terminal and run the following command:
 
-    git clone https://github.com/teJab-2610/ReadMeRevive.git
+        git clone https://github.com/teJab-2610/ReadMeRevive.git
 
 - Using Download ZIP
-* Go to the GitHub page of the repository.
-* Click on the green Code button.
-* In the dropdown menu, select Download ZIP.
+    - Go to the GitHub page of the repository.
+    - Click on the green Code button.
+    - In the dropdown menu, select Download ZIP.
 
 Now navigate to this folder and open a terminal .
 
@@ -33,7 +33,7 @@ Change a couple of files to
 #### Frontend/Keys.js
     # Use your own Github API key 
     const token = ""
-    export default token 
+    export default token; 
 
 #### Server/Keys.py
     #Use your Gemini API Key here
