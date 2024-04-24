@@ -29,7 +29,8 @@ Before you set up the backend, you might need to install dependencies just as sh
 
     python -m pip install -r requirements.txt   
 
-Change a couple of files to 
+This step is very important to make the project work! please make sure you get correct keys and set up everything correctly.
+
 #### Frontend/Keys.js
     # Use your own Github API key 
     const token = ""
