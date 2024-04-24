@@ -26,7 +26,7 @@ Before you set up the backend, you might need to install dependencies just as sh
 Change a couple of files to 
 #### Frontend/Keys.js
     # Get your own Github API key 
-    const token = "your Github API key here."
+    const token = ""
     export default token 
 
 #### Server/Keys.py
