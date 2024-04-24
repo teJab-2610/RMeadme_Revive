@@ -1,8 +1,14 @@
+# Readme Reviver
 
+Welcome to Readme Reviver!
 
-# Installation
+Readme files are crucial for software projects, but keeping them updated is tough. That's where Readme Reviver comes in. It's a tool that automatically detects outdated parts of your readme by analyzing GitHub commits.
 
-## Clone this Repository
+The goal? To make readme maintenance easier, ensuring documentation stays relevant and informative as project evolves.
+
+## Installation
+
+### Clone this Repository
 
 You can clone this repo using HTTPS or SSH
 
@@ -15,7 +21,7 @@ In terminal run this command :
 
     python backend.py
 
-## Setting up the frontend:
+### Setting up the frontend:
 
 - Open the extension list in your browser settings: [chrome://extensions](chrome://extensions)/[brave://extensions](brave://extensions)/[edge://extensions](edge://extensions)
 - Enable **Developer mode**
@@ -23,7 +29,7 @@ In terminal run this command :
 - The extension should now appear in the list of installed extensions.
 
 
-# Usage :
+## Usage :
 - **Start the Backend Server**: Execute the command provided above to initiate the backend server.
 - **Enable the Extension**: If not already enabled, access your browser settings and enable the extension.
 - **Navigate to Repository**: Proceed to the repository requiring documentation suggestions.
