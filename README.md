@@ -66,8 +66,8 @@ In order to use this extension, you need to start the backend server which runs 
   - Once processing is complete, the suggested readme content will be displayed.
 
 - **Review and Implement Suggestions**:
-  - At the end of each line, you'll see red dots.
-  - Hover over them to view the suggestions.
-  - Copy the suggested lines to your README file.
+  - At the start of each line, you'll see red dots.
+  - Hover over them to view one or more commit summaries that prompted the change on those lines.
+  - Modify the readme accordindly based on the summary.
     
 ### This is how you enhance your poorly documented Repository by reviving their dead README files...
