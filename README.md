@@ -28,10 +28,10 @@ In terminal run this command :
 - **Enable the Extension**: If not already enabled, access your browser settings and enable the extension.
 - **Navigate to Repository**: Proceed to the repository requiring documentation suggestions.
 - **Access Documentation Suggestions**:
-  1. Click on the "Revive" button located next to the "Readme" button.
-  2. Ensure that the backend server is running.
-  3. Processing may take some time; please be patient.
-  4. Once processing is complete, the suggested readme content will be displayed.
+  - Click on the "Revive" button located next to the "Readme" button.
+  - Ensure that the backend server is running.
+  - Processing may take some time; please be patient.
+  - Once processing is complete, the suggested readme content will be displayed.
 
 - **Review and Implement Suggestions**:
   - At the end of each line, you'll see red dots.
