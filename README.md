@@ -25,7 +25,8 @@ In terminal run this command :
 
 # Usage :
 - Start the backend server by running the command mentioned above.
-- Enable the extension in case if it's not already enabled.
+- Open your browser and enable the extension in case if it's not already enabled.
+- Now navigate to your repository for which you need documentation to be suggested. 
 - Click on the **Revive** button available next to **Readme** button. Make sure that backend is running as well. The processing takes a while, wait patiently. Once it has been processed the readme content will be suggested.
 - At the end of each line you ll see red dots, when you hover upon them, the suggestions will be displayed. Check them out, copy those lines to your Readme...
 
