@@ -24,10 +24,18 @@ In terminal run this command :
 
 
 # Usage :
-- Start the backend server by running the command mentioned above.
-- Open your browser and enable the extension in case if it's not already enabled.
-- Now navigate to your repository for which you need documentation to be suggested. 
-- Click on the **Revive** button available next to **Readme** button. Make sure that backend is running as well. The processing takes a while, wait patiently. Once it has been processed the readme content will be suggested.
-- At the end of each line you ll see red dots, when you hover upon them, the suggestions will be displayed. Check them out, copy those lines to your Readme...
+- **Start the Backend Server**: Execute the command provided above to initiate the backend server.
+- **Enable the Extension**: If not already enabled, access your browser settings and enable the extension.
+- **Navigate to Repository**: Proceed to the repository requiring documentation suggestions.
+- **Access Documentation Suggestions**:
+  1. Click on the "Revive" button located next to the "Readme" button.
+  2. Ensure that the backend server is running.
+  3. Processing may take some time; please be patient.
+  4. Once processing is complete, the suggested readme content will be displayed.
 
+- **Review and Implement Suggestions**:
+  - At the end of each line, you'll see red dots.
+  - Hover over them to view the suggestions.
+  - Copy the suggested lines to your README file.
+    
 ### This is how you revive your dead Readme file for your poorly documented Repository...
