@@ -8,16 +8,35 @@ The goal? To make readme maintenance easier, ensuring documentation stays releva
 
 ## Installation
 
+### Dependencies
+The backend runs using **Flask**, you need a few key packages like Gensim, Pandas, PyDriller.
+
+Before you set up the backend, you might need to install dependencies just as shown below;
+
+    pip install -r requirements.txt   
+
 ### Clone this Repository
 
 You can clone this repo using HTTPS or SSH
 
     git clone https://github.com/teJab-2610/ReadMeRevive.git
 
-Now navigate to this folder and open a terminal inside the **Server** directory.
+Now navigate to this folder and you need to change the following files : 
 
-In order to use this extension, you need to run the backend,
-In terminal run this command :
+#### Frontend/Keys.js
+    # Get your own Github API key 
+    const token = "your Github API key here."
+    export default token 
+
+#### Server/Keys.py
+    #Use your Gemini API Key here
+    GEMINI_API_KEY = ""
+
+After this, opne a terminal inside the **Server** directory.
+
+In order to use this extension, you need to start the backend server which runs on your localhost,
+
+**Run this command :**
 
     python backend.py
 
