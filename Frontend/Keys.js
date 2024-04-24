@@ -1,3 +1,4 @@
-const token = "your Github API key here."
+# Use your own Github API key
+const token = ""
 
 export default token;
