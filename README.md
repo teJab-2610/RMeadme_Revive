@@ -23,5 +23,5 @@ In terminal run this command :
 - The extension should now appear in the list of installed extensions. Enable it if it's not already enabled.
 
 
-#Usage :
+# Usage :
 
