@@ -1,0 +1,11 @@
+flask 
+git-python
+pydriller
+pandas
+watchdog
+flask_cors
+datetime
+gensim
+nltk
+scikit-learn
+google-generativeai
