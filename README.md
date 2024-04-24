@@ -15,15 +15,15 @@ In terminal run this command :
 
     python backend.py
 
-Setting up the frontend :
+##Setting up the frontend :
 
-Open the extension list in your browser settings: [chrome://extensions](chrome://extensions)/[brave://extensions](brave://extensions)/[edge://extensions](edge://extensions)
+1.Open the extension list in your browser settings: [chrome://extensions](chrome://extensions)/[brave://extensions](brave://extensions)/[edge://extensions](edge://extensions)
 
-Enable **Developer mode**
+1.Enable **Developer mode**
 
-Click on **Load unpacked** and select the folder named **"Frontend"** containing the extension files.
+1.Click on **Load unpacked** and select the folder named **"Frontend"** containing the extension files.
 
-The extension should now appear in the list of installed extensions. Enable it if it's not already enabled.
+1.The extension should now appear in the list of installed extensions. Enable it if it's not already enabled.
 
 
 #Usage :
