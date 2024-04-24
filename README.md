@@ -6,18 +6,14 @@
 
 You can clone this repo using HTTPS or SSH
 
-    ```
     git clone https://github.com/teJab-2610/ReadMeRevive.git
-    ```
 
 Now navigate to this folder and open a terminal inside this directory.
 
 First you need to run the backend,
 In terminal run this command :
 
-    ```
     python backend.py
-    ```
 
 Setting up the frontend :
 
